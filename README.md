@@ -1,3 +1,6 @@
+Control USB serial devices with an ESP32S2 (tested with the Lolin S2 Mini)
+
+https://youtu.be/zkpkUem1ZGw
 
 ## Start build environment
 
